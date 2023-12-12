@@ -1,3 +1,4 @@
 # barfoo
 
 Foobar
+Barfoo
